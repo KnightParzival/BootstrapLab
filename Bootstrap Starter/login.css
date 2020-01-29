@@ -1,0 +1,22 @@
+body{
+
+display: -ms-flexbox;
+display: flex;
+-ms-flex-align: center;
+align-items: center;
+display: block;
+text-align: center;
+
+}
+
+.form-signin{
+
+margin: auto;
+
+}
+
+.form-signin .form-control:focus {
+
+    border-color: white;
+
+    box-shadow: 0 0 0 0.2rem rgba(5, 50, 0, 0.45);
